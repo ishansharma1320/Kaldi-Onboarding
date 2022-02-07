@@ -1,4 +1,4 @@
-For NNET-2 Training:
+# For NNET-2 Training:
 
     1. get_egs_simple.sh
     2. get_lda_simple.sh
